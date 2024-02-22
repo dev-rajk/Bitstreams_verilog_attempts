@@ -5,3 +5,4 @@ Contains bitstream files for demonstration of different verilog scripts implemen
 The projects are:
 - Digital Clock (at 10x speed)
 - Snake: a snake animation on the 7 segment display
+- Digital clock with a led ripple effect to show seconds
