@@ -10,4 +10,4 @@ The projects are:
 - Improved home alarm incorporating motion sensors
 - A ripple effect for leds to serve as a time keeper
 - Snake: a snake animation on the 7 segment display
-- ultrasonic distance - an implementation of a distance measuring unit using a HRS04 sensor with output on LED strip
+- ultrasonic distance - an implementation of a distance measuring unit using a HC SR04 sensor with output on LED strip
